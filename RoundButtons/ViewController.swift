@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  RoundButtons
+//  RoundButtons (End state)
 //
 //  A exercise file for iOS Development Tips Weekly
 //  by Steven Lipton (C)2018, All rights reserved
